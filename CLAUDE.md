@@ -14,7 +14,7 @@ No build step, framework, or dependencies. Open `index.html` directly in a brows
 python3 -m http.server 8000   # then visit http://localhost:8000
 ```
 
-Deployment is static file hosting (the repo history renames `makan-marketplace.html` → `index.html`, implying a plain static host / GitHub Pages style setup).
+**Deployment: GitHub Pages.** Root `index.html` is the entry point; every push to the deployed branch goes live within ~1 minute. Keep everything as plain static files with relative links (no client-side-router setup). New pages are just additional `.html` files at the repo root (e.g. `/host.html`).
 
 ## Architecture
 
