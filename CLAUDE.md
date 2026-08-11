@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-MakanTable (brand: "makan") — a static-site prototype for an "Airbnb for dining" marketplace where home chefs open their tables to guests. Currently a single self-contained page.
+MakhanTable (brand shown in UI: "Makhan"; full name "Makhantable") — a static-site prototype for an "Airbnb for dining" marketplace where home chefs open their tables to guests. Currently a single self-contained page. Note: the brand plays on the Malay word *makan* ("to eat"); keep that word intact in the footer etymology line — do not rename it to "Makhan".
 
 ## Running
 
